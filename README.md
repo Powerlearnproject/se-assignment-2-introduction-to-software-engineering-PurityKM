@@ -165,7 +165,6 @@ What are some ethical issues that software engineers might face? How can softwar
 # Continuous Learning: The field of software engineering and its ethical landscape are constantly evolving. Stay up-to-date on emerging ethical issues and best practices to ensure your work remains ethical and responsible.
 # Questioning Unethical Practices: Speak up if you witness or are asked to participate in unethical practices. Don't be afraid to raise concerns with superiors or report serious issues to relevant authorities.
 
-
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
